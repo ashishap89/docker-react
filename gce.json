@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rich-access-251914",
+  "private_key_id": "95dbce35762cc3e63880b03fa6f48b254ad71ab9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5WH4p+PelFTj9\nYpBo9uvwebRsMQftCTvMe29eb5f/XtxNxXbWF1VNvj83YfwODMTVbgdtyTs9D3DX\nkmc3Pgdgou+g4m5QrPR0CiXS+icuHaY8vibOxUSGdUp+R3MnaKRR9DfqO31jzNid\n1RmWnf7GvJnWwssLzHlvyD59ZLtlCIgnySTWApr6aTP0TsEUJp6nRNpIULgXpIUz\nBymKqkkxK6E4psnYcKYG69nbvF+6w6USvA3m1i668TUYeRvGssf6QU4AeEyNz6Jw\njnNPr4/cM4kupSC9/Am2ellN71+xAb1Gym/YXTpRdyBxOPBmKNDLOAmEnOBJ233y\nIuQd4W4HAgMBAAECggEAAXm5e2UOmzFwq1Cc1ZSi+TPVDSSNOcSSGwUf3wJro2cU\nMuUvsvGdKhD/Jw8a6L5kDoeTNQJeJr90cTyqhK90AXiMXeuRUZXfyBgJsraoUKKc\nyh6rZ6RSfw2GwuZ7RLMZ8nIvNcTfW9X56e2F3XV6a7HSjwfz14R7QI8rJRK809XI\n6cLupEVKxUwxqM/wcG4KFGzMdOvYM+oENCoHfYsU9YW397+YVAAK7C4amxc+ifZw\neFEueTADvg7OsjBHo+SEdfVmjT1FkYPFr1hiIsaO++V9HBywTP52Xq+QGv31gl/G\njFyjJpLovTGNff8J6t0VVM0f/TF45INgJ1JSJxGJwQKBgQDlbD+G6W7socSZA2f2\nd+aJVSflCBKZIY+oA+kJ+v/l5m9LV1DbOTfMqZszjTNAfqy+cw+G8CnlETNIrI6o\nIvluGSltip2IiNjIXC5QskQ9feocjCohTbgOLfDgU1mqQawvgXJyYoyLe/rmtHCi\nBtIPzrWE1SyIPoeEIxIylFluwQKBgQDO0RguMb25H+CgOfb/NHRIH7bYVD112UTd\npAD89bEsqn7CeTnDGGb74CaVT1hfKtEz1bz8b+6XbY3nIpITmWWZG3iCSilQkYOU\nbUO9SvGWPat53GXp+hma9bE9D7UAs0NT2382Fb+S14Xdw9PhKWQEBWsKij9sof/g\n0tbxIofWxwKBgCGPkz92GG7vPyYvFF8+rO+8EEj1xFq4SR6H6+g02ohUDEXWMRLQ\nrPP4f6ar6ipuHXECveu8aDSFLp5b98Zqz1gmwCOxGlhlxGiS64eMfGUObVfdvTAA\nAYO5froiF0TLtJeCdS58chjZexuSm8NoAgSj9XPIB2qq0wImazwQ7YBBAoGARqJ1\nPrmwUXzIrBCAAlN473Udbq7+urQ05/nueHa1R0sHtgXPK4m3ColYxB/wT7iA8NIs\nFI9qDn/VOj69Y0I9x9fxBZasm57HMLdMrmbdMfHoEdurVwkbG6iUGwW1TQLsmMRb\noy40WsOPLdmHENyhExqCn3vuA30ktjVsQbkIadsCgYAMR/4dhOdhA8kWuSAw0qHj\n7RwhR1buPOEjbkBwsmaiVBDMXeEqTWxcnkLnh7znGngCAIDpGJUz0bGsDn271c84\nr1eaS6KCTvMrpZ/Zul+qx1krqUTJuPCv3HVgpIl1xMvUQlNxSTuSDBT4ytm9BoUE\nHPYTAbj5Bjta/KbSKVl7uQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-ci-deploy@rich-access-251914.iam.gserviceaccount.com",
+  "client_id": "115836057625571512260",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-ci-deploy%40rich-access-251914.iam.gserviceaccount.com"
+}
