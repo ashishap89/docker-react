@@ -6,3 +6,10 @@ before_install:
     - docker build -t docker-react -f Dockerfile.dev .
 script:
     - docker run -e CI=true docker-react npm run test -- --coverage
+
+deploy:
+    provider: gae
+    project: rich-access-251914
+    keyfile: gce.json
+    verbosity: debug
+    on: master
