@@ -9,7 +9,7 @@ script:
 
 deploy:
     provider: gae
-    project: rich-access-251914
-    keyfile: gce.json
+    project: travis-deployment
+    #keyfile: gce.json
     verbosity: debug
     on: master
