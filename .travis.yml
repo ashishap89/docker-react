@@ -10,6 +10,6 @@ script:
 deploy:
     provider: gae
     project: travis-deployment
-    #keyfile: gce.json
+    keyfile: travis-deployment.json
     verbosity: debug
     on: master
