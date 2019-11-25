@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "travis-deployment",
+  "private_key_id": "17383a3cd3707638cb326d44e8e71622e69f1f78",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCW0BbDH8Bm47TF\n8pLXE4Ch2hvrZSg014E/Wu+CnKoPqom00AE7zq+T0Wpp3bXLypztVqE/uAyxsT+S\nn1h0H2whD4KpFDvjNG/jLxV+XeXZvVjcgaSB6XLzXPgbUVZj6Chmi37SLBbKBsue\nGs7xEFOqexo+T+HQAjMzeJuLYQUeMyB432NUteYlTX8HVWmcvBO3vPMRjdKlgkMu\n9sb2ttvob2O8gYcMJK61e09XFDwlkYNavIJlhujU6t1tZYCwcFTyaITZQbSN79x3\nNjM89sx0NsY80w5ye0KeexjEDZSOVDyt9fFCkOWfWPd7vSi7Zj2yQF2BbkBgak/Q\nTYXFSkvZAgMBAAECggEAJ/utPTgKy3xtLdm84naSMNbhdgwQl8nWw1Q5kZg1Ygfl\nkGFhIlkOpZLssnqMOyZRan8AKyOBgg6q+xVx3v+BrFYvXuI1amw5ibKu8Ry11n9j\nsrpQQf0Bc9HfGWb8D2q6Y01yZwg3VoJss1MKMFESzWzrrT+Cb6JVrry4CEDFmZau\nQW4gMxIn5grksjjxF/79GHQy/APUWPxGhgGsV/+3+E/+qG5Hvt4UkRebKND3xL6Q\n5Zvtdm1FoAsJLXwQsKHU09M1SdsLUPbFVbVjVoGWGN33xWhPiRARpxT0VSJtzGx4\n/XIx7fjCp40kh6ohcFdkc2K/MaQ8eTYbYe7GJDst3QKBgQDGHfKHY0rxNP9Vx/sh\nc6325Tcjl58iC6nHZH3LYLZ24F53oBfl2LntWNeoS201zf3AH3h8hy6jDXsbQM7J\nfnVNIGGRSysMP7u47k0KlwhqPGP8r8M8rOl97O++BBxBnhlV+b8l4g3pWLBkYyXk\n51v3aQbMq1j08adsJk6HnuGCKwKBgQDC4A3pnPVWU4af/E3uJwVJIpi8qHbp0Kk1\nwcbYhjiAYIOB8pWQNejbClVpilT2q2hcskIx41Bjo8zqyaIDjOFqmdi60G4SFFP1\nnf+69NyArk/PHWhinUc78mEA30j2MPOkcnvYplM1jnWYKtYaZ5KBpt687ciWt0IA\n/5yogJccCwKBgBoECLsaoNa33OfI0QN9i1SmmO0FlhIEchEK8zHny04k/IK89SZr\npU6zoe4pqXetSysVdt7zaX5j4MydYAo5nvG31NgdhNOg8ue/80H2v1YkBAVEl2C6\nXBb7LChJpeQ//Je7qgwxeR4xVUh5dJpwfzUoB4qM3aucqB2dkiZhCL/tAoGAC0sc\nw0sbVLNme+MNSR3tyn08yMIikg5LoBfoxCeTIq11MZSzYjYdloQUyxb/MYRhee3C\ntE1uHTgi6gBhaT9C2QCtdLYbiuSusO9FILqMBNEVQvV7VSu0Mx8qy/gkrE/N7tvL\nnZSWAeaNnhHtcn5KGUVoZx6In2NjaddmZsV8/F0CgYBbZlg/ZJ4gioR5inub1j1P\nMBlkyaBFBJeJj4Q0iRVcG4GnK9zm5fXibHX0C2vV/ImzJp6mv2inBZkHpJan+Ebc\nTQb191uUYBbQQJrnqwXSkPFf2dBs9Ev4euA3PcrlevWdKcAhqXr3fS0rHmUj76w3\nTt/ReSGWu74YwmCC13jtHQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "travis-deployment@appspot.gserviceaccount.com",
+  "client_id": "104267735275891138781",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/travis-deployment%40appspot.gserviceaccount.com"
+}
